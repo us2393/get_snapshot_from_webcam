@@ -22,3 +22,4 @@ v3.1:
   
   work both in my computer and notebook. both are English-language windows.
 
+原本的目的只是簡單的用camera拍照截圖然後上傳，所以直接存jpg而不是png，畫質、效能、圖檔格式、"resize" 應該都有改善的空間。
