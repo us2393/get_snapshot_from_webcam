@@ -1,0 +1,17 @@
+*****************************
+the following is to-do-list
+*****************************
+add feature:
+	- choose jpg/png to save
+	- label.text = "show estimated save_file size"
+	- label.text = "show save_file path before save the file"
+	- add filediaogue to choose save_file path
+	- to define all label's sizes (padx,pady,ipadx,ipady)
+	- to reduce .exe size
+	
+
+more feature:
+	- add setting window to show informations
+	- add database to save settings
+	- use pyinstaller to include database
+	- use pyinstaller to include .ico file
