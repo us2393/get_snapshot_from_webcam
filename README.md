@@ -7,3 +7,4 @@ upload cam_snapshot_v3.exe, it work for me, and not well tested
 
 只有一台camera，沒測試過兩台互切，理論上可以
 
+total file size about 50MB
